@@ -2,6 +2,7 @@
 include "header.php";
 ?>
 
+
 <div class="color">
         <div class="container">
             <h1>Leonardo da vince<h1>
@@ -16,6 +17,7 @@ include "header.php";
                 Apesar de ser uma tela pequena, com apenas 77 x 53 cm, Mona Lisa fascina os espectadores com o seu sorriso enigmático
             </p>
         </div>
+
 </div>
 <?php
 include "footer.php";

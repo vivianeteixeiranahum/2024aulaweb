@@ -2,6 +2,7 @@
 include "header.php";
 ?>
 
+
 <div class="container">
     <h1> PINTORES FAMOSOS<h1>
 

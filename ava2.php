@@ -2,6 +2,7 @@
 include "header.php";
 ?>
 
+
 <h1> Vangohg</h1>
 <p>Obras de Vangohg</p>
 
