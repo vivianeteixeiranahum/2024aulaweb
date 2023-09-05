@@ -16,6 +16,7 @@
             <li class="nav-item"><a class="nav-link" href="servicos.php">serviços</a></li>
             <li class="nav-item"><a class="nav-link" href="portifolio.php">portifólio</a></li>
             <li class="nav-item"><a class="nav-link" href="contato.php">Contato</a></li>
+            <li class="nav-item"><a class="nav-link" href="avaliacao.php">Avaliação</a></li>
         </ul>
     </nav>
     </header>
